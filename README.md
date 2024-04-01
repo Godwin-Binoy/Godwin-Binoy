@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Godwin Binoy</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌱 I’m currently learning **Python advanced, Kotlin ect.**
+- 🌱 I’m currently learning **Python , Kotlin ect.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Godwin-Binoy](https://github.com/Godwin-Binoy)
 
