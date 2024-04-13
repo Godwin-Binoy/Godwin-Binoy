@@ -1,6 +1,6 @@
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A self taught developer</h3>
 
-- 🌱 I’m currently learning **Python , Kotlin ect.**
+- 🌱 I’m currently learning **Python, Kotlin, web development ect.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Godwin-Binoy](https://github.com/Godwin-Binoy)
 
