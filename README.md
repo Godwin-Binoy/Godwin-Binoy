@@ -1,4 +1,6 @@
-<h3 align="center">A self taught developer</h3>
+<h1>Hi, I'm Godwin Binoy</h1>
+
+<h3>A self taught developer</h3>
 
 - 🌱 I’m currently learning **Python, Kotlin, web development ect.**
 
