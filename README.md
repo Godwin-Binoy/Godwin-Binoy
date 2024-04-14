@@ -2,13 +2,13 @@
 
 <h3>A self taught developer</h3>
 
-- 🌱 I’m currently learning **Python, Kotlin, web development ect.**
+-  I’m currently learning **Python, Kotlin, web development ect.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Godwin-Binoy](https://github.com/Godwin-Binoy)
+-  All of my projects are available at [https://github.com/Godwin-Binoy](https://github.com/Godwin-Binoy)
 
-- 💬 Ask me about **HTML,CSS,Javascript,Python and Kotlin**
+-  Ask me about **HTML,CSS,Javascript,Python and Kotlin**
 
-- 📫 How to reach me **godwinbinoy72@gmail.com**
+-  How to reach me **godwinbinoy72@gmail.com**
 
   
 <p align="left">
