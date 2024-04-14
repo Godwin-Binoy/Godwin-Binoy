@@ -1,10 +1,10 @@
-<h1>Hi, I'm Godwin Binoy</h1>
+<h1> Hi, I'm Godwin Binoy</h1>
 
-<h3>A self taught developer</h3>
+<h3> A self taught developer</h3>
 
 -  I’m currently learning **Python, Kotlin, web development ect.**
 
--  All of my projects are available at [https://github.com/Godwin-Binoy](https://github.com/Godwin-Binoy)
+-  All of my projects are available at [https://github.com/Godwin-Binoy](GitHub)
 
 -  Ask me about **HTML,CSS,Javascript,Python and Kotlin**
 
