@@ -4,7 +4,7 @@
 
 -  I’m currently learning **Python, Kotlin, web development ect.**
 
--  All of my projects are available at [https://github.com/Godwin-Binoy](GitHub)
+-  All of my projects are available at <a href="https://github.com/Godwin-Binoy">GitHub</a>
 
 -  Ask me about **HTML,CSS,Javascript,Python and Kotlin**
 
